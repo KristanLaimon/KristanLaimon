@@ -10,7 +10,7 @@ I'm a student triyng to figure out how to become a succesfull software developer
 My actual resume and knowledge:
 
 - Beginner-Intermediate C#
-- Intermediate-Advance git
+- Intermediate-Advanced git
 - Beginner HTML
 
 Goals-RoadMap:
