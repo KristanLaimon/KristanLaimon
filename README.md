@@ -3,7 +3,7 @@
 I'm a student triyng to figure out how to become a succesfull software developer (kinda hard?)
 
 <p align="center">
-  <img src="images/Foxxy1.jpg" width="350">
+  <img src="Images/Foxxy1.jpg" width="350">
   <img src="images/Foxxy2.jpg" width="350">
 </p>
 
