@@ -1,6 +1,6 @@
 # Hi!
 
-I'm a student triyng to figure out how to become a succesfull software developer (kinda hard?)
+I'm a student trying to figure out how to become a succesful software developer (kinda hard?)
 
 <p align="center">
   <img src="Images/Foxxy1.jpg" width="350">
