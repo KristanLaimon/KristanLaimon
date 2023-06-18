@@ -4,7 +4,7 @@ I'm a student triyng to figure out how to become a succesfull software developer
 
 <p align="center">
   <img src="Images/Foxxy1.jpg" width="350">
-  <img src="images/Foxxy2.jpg" width="350">
+  <img src="Images/Foxxy2.jpg" width="350">
 </p>
 
 My actual resume and knowledge:
