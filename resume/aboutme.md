@@ -4,7 +4,7 @@
   <img src="../Images/Foxxy1.jpg" width="350">
 </p>
 
-I'm just a guy in love with computer science, it's branches and everything it has to offer. In this place i'm recolecting my active-passive skills in a list to see my progress and habilites. You can ignore it or wathever 🦊
+I'm just a guy in love with computer science, it's branches and everything it has to offer. In this place i'm recolecting my active-passive skills in a list to see my progress and habilities. You can ignore it or wathever 🦊
 
 Skills:
 
