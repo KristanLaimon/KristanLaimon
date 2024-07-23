@@ -9,5 +9,5 @@ I'm someone trying to figure out how to become a software developer
 
 Notes:
 
-- 💞️ Feel free to colaborate in any repo of mine, they're just simple personal proyects in c# so far
+- 💞️ Feel free to colaborate in any repo of mine, they're just simple personal proyects in c#, and Javascript-Typescript, maybe more tomorroy
 
