@@ -4,7 +4,7 @@ I'm someone trying to figure out how to become a software developer eventually.
 
 Currently developing on
 
-[Whatsbotcord.js](https://github.com/KristanLaimon/WhatsBotCord.js) ano other ts proyects.
+[Whatsbotcord.js](https://github.com/KristanLaimon/WhatsBotCord.js) and other ts proyects.
 
 Notes:
 
