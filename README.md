@@ -8,5 +8,5 @@ Currently developing on
 
 Notes:
 
-- 🦊 Feel free to colaborate in any repo of mine, they're just simple personal proyects in c#, and Javascript-Typescript, maybe more tomorroy
+- 🦊 Feel free to colaborate in any repo of mine, they're just simple personal proyects so far.
 
