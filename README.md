@@ -3,17 +3,18 @@ Coding goes brrrrrr.
 
 I'm currently focused as a JS/TS developer with strong ties to C#. (Fluency in Js/Ts + C#)
 With experience:
-- Frontend: Svelte, Astro  (html,js,css, tailwindcss, some with react)
+- Frontend: Svelte, Astro  (html,js,css, tailwindcss, sometimes using react)
 - Backend: with ASP.NET Core or NestJs (same concepts)
 - Winforms ☠️
 - Lua (Relative to celeste modding + LOVE + KoReader Plugins)
 - Dockers and CI Github actions pipelines
 - Server admin stuff (Ubuntu server)
+
 And some in:
 - Go(lang) (Scripts and small programs with wails)
 - Rust (Small programs with tauri)
 
-📃🪴 My actual works
+📃🪴 My actual work
 
 <h2 style="display: inline-block;">1. Whatsbotcord.js</h2> <span style="color: #6f7070; font-size: 0.8rem; font-style: italic;">(Public)</span>
 <p>Currently maintaining and developing my library <a href="https://github.com/KristanLaimon/WhatsBotCord.js" norel="noopener">Whatsbotcord.js</a> for my own use cases with whatsapp automation.</p>
