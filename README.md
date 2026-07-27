@@ -40,6 +40,8 @@ As an experienced-addicted celeste player, from time to time I like to work on s
 
 - <p><a style="font-weight: bold;" href="https://github.com/KristanLaimon/TheCelesteTracker-Mod">TheCelesteTracker</a>: A compannion app to track all celeste stats through vanilla-mods-lobbies and all kinds of mods.</p>
 
-- <p><a style="font-weight: bold;" href="https://github.com/KristanLaimon/TheCelesteTracker-Mod">TheCelesteTracker-EverestMod</a>: Mod to store/track all stats while playing in real-time. Feeds TheCelesteTracker project</p>
+- <p><a style="font-weight: bold;" href="https://github.com/TheCelesteHub/TheCelesteHub">TheCelesteTracker-EverestMod</a>: Mod to store/track all stats while playing in real-time. Feeds TheCelesteTracker project</p>
+
+And more projects in my organization [(TheCelesteHub) ](https://github.com/TheCelesteHub/)
 
 🦊 Contributions are always welcome.
