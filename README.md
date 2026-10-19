@@ -45,3 +45,7 @@ As an experienced-addicted celeste player, from time to time I like to work on s
 And more projects in my organization [(TheCelesteHub) ](https://github.com/TheCelesteHub/)
 
 🦊 Contributions are always welcome.
+
+---
+
+My profile picture is my OC (Original Character). Designed and made by: <a href="https://www.instagram.com/tomateranci0?exln=NGRtNXpieHZ3Ymo0">@tomateranci0 (Tumblr)</a> | <a href="https://www.tumblr.com/tomateranci0?source=share">@tomateranci0 (Instagram)</a> | <a href="https://madebyhuman.iamjarl.com"><img src="https://madebyhuman.iamjarl.com/badges/made-white.svg" alt="Made by Human" width="80" height="auto"></a>
