@@ -14,6 +14,21 @@ And some in:
 - Go(lang) (Scripts and small programs with wails)
 - Rust (Small programs with tauri)
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=KristanLaimon&layout=donut-vertical&langs_count=6&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=KristanLaimon&layout=donut-vertical&langs_count=6&theme=dark_github)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=KristanLaimon&rank_icon=github&custom_title=FoxStats%20%28KristanLaimon%29&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=KristanLaimon&rank_icon=github&custom_title=FoxStats%20%28KristanLaimon%29&show_icons=true&include_all_commits=true&theme=dark_github)
+
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=KristanLaimon&repo=KristanLaimon%2FPanelsPlus&show_owner=true&description_lines_count=3&theme=dark_github_repocard)](https://github.com/KristanLaimon/PanelsPlus)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=KristanLaimon&repo=KristanLaimon%2FWhatsBotCord.js&show_owner=true&theme=dark_github_repocard)](https://github.com/KristanLaimon/WhatsBotCord.js)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=KristanLaimon&repo=KristanLaimon%2Fnvim&show_owner=true&theme=dark_github_repocard)](https://github.com/KristanLaimon/nvim)
+
 📃🪴 My actual work
 
 <h2 style="display: inline-block;">1. Whatsbotcord.js</h2> <span style="color: #6f7070; font-size: 0.8rem; font-style: italic;">(Public)</span>
