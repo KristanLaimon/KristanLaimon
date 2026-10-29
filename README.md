@@ -25,6 +25,7 @@
 <td align="center" valign="middle" width="40%">
   <img src="./resources/kristanlaimon-fox-profilepicture.jpg" alt="KristanLaimon's fox original character" width="300">
   <h2 align="center">Hi!</h2>
+  <em>(Original Character and Profile Picture)</em>
 </td>
 <td align="center" valign="middle" width="30%">
 
@@ -63,15 +64,23 @@
 ## My best projects
 
 <p align="left">
-  <a href="https://github.com/KristanLaimon/PanelsPlus"><img src="https://github-stats-extended.vercel.app/api/pin?username=KristanLaimon&repo=KristanLaimon%2FPanelsPlus&show_owner=true&description_lines_count=3&theme=dark_github_repocard" alt="PanelsPlus repository card"></a>
+  <a href="https://github.com/KristanLaimon/PanelsPlus"><img align="middle" src="https://github-stats-extended.vercel.app/api/pin?username=KristanLaimon&repo=KristanLaimon%2FPanelsPlus&show_owner=true&description_lines_count=3&theme=dark_github_repocard" alt="PanelsPlus repository card"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="middle" src="./resources/fox_standing_loooking_at_you.svg" alt="Standing fox looking at you" width="160" height="170">
 </p>
 
 <p align="right">
-  <a href="https://github.com/KristanLaimon/WhatsBotCord.js"><img src="https://github-stats-extended.vercel.app/api/pin?username=KristanLaimon&repo=KristanLaimon%2FWhatsBotCord.js&show_owner=true&theme=dark_github_repocard" alt="WhatsBotCord.js repository card"></a>
+  <img align="middle" src="./resources/fox_sitting_looking_at_you.svg" alt="Sitting fox looking at you" width="160" height="170">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/KristanLaimon/WhatsBotCord.js"><img align="middle" src="https://github-stats-extended.vercel.app/api/pin?username=KristanLaimon&repo=KristanLaimon%2FWhatsBotCord.js&show_owner=true&theme=dark_github_repocard" alt="WhatsBotCord.js repository card"></a>
 </p>
 
 <p align="left">
-  <a href="https://github.com/KristanLaimon/nvim"><img src="https://github-stats-extended.vercel.app/api/pin?username=KristanLaimon&repo=KristanLaimon%2Fnvim&show_owner=true&theme=dark_github_repocard" alt="Neovim configuration repository card"></a>
+  <a href="https://github.com/KristanLaimon/nvim"><img align="middle" src="https://github-stats-extended.vercel.app/api/pin?username=KristanLaimon&repo=KristanLaimon%2Fnvim&show_owner=true&theme=dark_github_repocard" alt="Neovim configuration repository card"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="middle" src="./resources/fox_sleeping.svg" alt="Sleeping fox" width="160" height="170">
+</p>
+
+<p align="center">
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=KristanLaimon&layout=donut-vertical&langs_count=6&theme=dark_github"><img align="middle" src="https://github-stats-extended.vercel.app/api/top-langs?username=KristanLaimon&layout=donut-vertical&langs_count=6&theme=dark_github" alt="Most used languages"></a>
+  <a href="https://github-stats-extended.vercel.app/api?username=KristanLaimon&rank_icon=github&custom_title=FoxStats%20%28KristanLaimon%29&show_icons=true&include_all_commits=true&theme=dark_github"><img align="middle" src="https://github-stats-extended.vercel.app/api?username=KristanLaimon&rank_icon=github&custom_title=FoxStats%20%28KristanLaimon%29&show_icons=true&include_all_commits=true&theme=dark_github" alt="GitHub stats"></a>
 </p>
 
 ## More about me
@@ -138,23 +147,10 @@ More projects live in [TheCelesteHub](https://github.com/TheCelesteHub/).
 
 🦊 Contributions are always welcome.
 
-<details>
-  <summary>Stats & tools</summary>
 
-[![Most used languages](https://github-stats-extended.vercel.app/api/top-langs?username=KristanLaimon&layout=donut-vertical&langs_count=6&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=KristanLaimon&layout=donut-vertical&langs_count=6&theme=dark_github)
-[![GitHub stats](https://github-stats-extended.vercel.app/api?username=KristanLaimon&rank_icon=github&custom_title=FoxStats%20%28KristanLaimon%29&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=KristanLaimon&rank_icon=github&custom_title=FoxStats%20%28KristanLaimon%29&show_icons=true&include_all_commits=true&theme=dark_github)
-
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</details>
 
 ---
 
-My profile picture is my OC (original character), designed and made by [@tomateranci0 on Instagram](https://www.instagram.com/tomateranci0?exln=NGRtNXpieHZ3Ymo0) · [Tumblr](https://www.tumblr.com/tomateranci0?source=share).
+My profile picture is my OC (original character), designed and made by [@tomateranci0 on Instagram](https://www.instagram.com/tomateranci0?exln=NGRtNXpieHZ3Ymo0) · [Tumblr](https://www.tumblr.com/tomateranci0?source=share) (Commision Art)
 
 <a href="https://madebyhuman.iamjarl.com"><img src="https://madebyhuman.iamjarl.com/badges/made-white.svg" alt="Made by Human" width="80"></a>
