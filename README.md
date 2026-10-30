@@ -1,7 +1,9 @@
-﻿<h1 align="center">KristanLaimon</h1>
+﻿<h1 align="center">Hi there</h1>
 
-<h3 align="center">Hi there! I'm a (fox) developer working toward becoming a software engineer. Coding for fun & work.</h3>
+<p align="center">I'm a fox dev figuring out how to become a software dev eventually. Coding for fun & work.</p>
 
+
+<p align="left">Things I know or have experience with:</p>
 <table align="center" width="100%">
 <tr>
 <td align="center" valign="middle" width="30%">
@@ -23,9 +25,8 @@
 
 </td>
 <td align="center" valign="middle" width="40%">
-  <img src="./resources/kristanlaimon-fox-profilepicture.jpg" alt="KristanLaimon's fox original character" width="300">
-  <h2 align="center">Hi!</h2>
-  <em>(Original Character and Profile Picture)</em>
+  <img src="./resources/kristanlaimon-fox-profilepicture-BW.jpg" alt="KristanLaimon's fox original character" width="1000">
+  <em>(OC)</em>
 </td>
 <td align="center" valign="middle" width="30%">
 
@@ -88,7 +89,8 @@
 <table width="100%">
 <tr><td>
 
-### KL software, tech guy & admin
+<details>
+<summary><strong>KL software, tech guy &amp; admin</strong></summary>
 
 <img align="right" src="./resources/klbot_reference_img.webp" alt="Phone showing the KL WhatsApp bot's commands" width="260">
 
@@ -106,13 +108,16 @@ I build and maintain these private projects:
 
 <br clear="all">
 
+</details>
+
 </td></tr>
 </table>
 
 <table width="100%">
 <tr><td align="right">
 
-<h3 align="right">WhatsBotCord & bot automation</h3>
+<details>
+<summary><strong>WhatsBotCord &amp; bot automation</strong></summary>
 
 <p align="right">
   I build and maintain <a href="https://github.com/KristanLaimon/WhatsBotCord.js"><strong>WhatsBotCord.js</strong></a>, my library for WhatsApp automation.<br>
@@ -125,13 +130,16 @@ I build and maintain these private projects:
   </a>
 </p>
 
+</details>
+
 </td></tr>
 </table>
 
 <table width="100%">
 <tr><td>
 
-### Celeste player & modder
+<details>
+<summary><strong>Celeste player &amp; modder</strong></summary>
 
 ![Celeste modding and tooling banner](./resources/celeste-banner.png)
 
@@ -142,12 +150,12 @@ As an experienced (and addicted) Celeste player, I like working on small modding
 
 More projects live in [TheCelesteHub](https://github.com/TheCelesteHub/).
 
+</details>
+
 </td></tr>
 </table>
 
 🦊 Contributions are always welcome.
-
-
 
 ---
 
