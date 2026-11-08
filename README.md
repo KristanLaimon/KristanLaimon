@@ -25,8 +25,7 @@
 
 </td>
 <td align="center" valign="middle" width="40%">
-  <img src="./resources/kristanlaimon-fox-profilepicture-BW.jpg" alt="KristanLaimon's fox original character" width="1000">
-  <em>(OC)</em>
+  <img width="99%" height="auto" alt="kristanlaimon_oc_annotating" src="https://github.com/user-attachments/assets/1688af96-f220-4bb4-8f8f-354872795d5f" />
 </td>
 <td align="center" valign="middle" width="30%">
 
