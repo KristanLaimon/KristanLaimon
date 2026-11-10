@@ -63,10 +63,25 @@
 
 ## My best projects
 
-<p align="left">
-  <a href="https://github.com/KristanLaimon/PanelsPlus"><img align="middle" src="https://github-stats-extended.vercel.app/api/pin?username=KristanLaimon&repo=KristanLaimon%2FPanelsPlus&show_owner=true&description_lines_count=3&theme=dark_github_repocard" alt="PanelsPlus repository card"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="middle" src="./resources/fox_standing_loooking_at_you.svg" alt="Standing fox looking at you" width="160" height="170">
-</p>
+<table width="100%">
+  <tr>
+    <td width="35%" align="center" valign="middle">
+      <img
+        width="240"
+        alt="kl-sleepy"
+        src="https://github.com/user-attachments/assets/8ef5e20d-b9fd-4bf3-87b4-deafabd0c842"
+      />
+    </td>
+    <td width="65%" align="center" valign="middle">
+      <a href="https://github.com/KristanLaimon/PanelsPlus">
+        <img
+          src="https://github-stats-extended.vercel.app/api/pin?username=KristanLaimon&amp;repo=KristanLaimon%2FPanelsPlus&amp;show_owner=true&amp;description_lines_count=3&amp;theme=dark_github_repocard"
+          alt="PanelsPlus repository card"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="right">
   <img align="middle" src="./resources/fox_sitting_looking_at_you.svg" alt="Sitting fox looking at you" width="160" height="170">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
