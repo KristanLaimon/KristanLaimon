@@ -156,8 +156,22 @@ More projects live in [TheCelesteHub](https://github.com/TheCelesteHub/).
 
 🦊 Contributions are always welcome.
 
+
+
+<table>
+  <tr>
+    <td width="30%">
+      <img width="100%" height="auto" alt="kristanlaimon_oc_thinking" src="./resources/kristanlaimon-fox-profilepicture.jpg" />
+    </td>
+    <td width="70%">
+      <h2>My profile picture is my OC (original character), designed and made by [@tomateranci0 on Instagram](https://www.instagram.com/tomateranci0?exln=NGRtNXpieHZ3Ymo0) · [Tumblr](https://www.tumblr.com/tomateranci0?source=share) (Commision Art)</h2>
+      <a href="https://madebyhuman.iamjarl.com"><img src="https://madebyhuman.iamjarl.com/badges/made-white.svg" alt="Made by Human" width="80"></a>
+    </td>
+  </tr>
+</table>
+
 ---
 
-My profile picture is my OC (original character), designed and made by [@tomateranci0 on Instagram](https://www.instagram.com/tomateranci0?exln=NGRtNXpieHZ3Ymo0) · [Tumblr](https://www.tumblr.com/tomateranci0?source=share) (Commision Art)
 
-<a href="https://madebyhuman.iamjarl.com"><img src="https://madebyhuman.iamjarl.com/badges/made-white.svg" alt="Made by Human" width="80"></a>
+
+
