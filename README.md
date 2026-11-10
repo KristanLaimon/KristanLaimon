@@ -139,7 +139,6 @@ I build and maintain these private projects:
 
 <details>
 <summary><strong>Celeste player &amp; modder</strong></summary>
-
 ![Celeste modding and tooling banner](./resources/celeste-banner.png)
 
 As an experienced (and addicted) Celeste player, I like working on small modding and tooling projects from time to time:
@@ -148,23 +147,23 @@ As an experienced (and addicted) Celeste player, I like working on small modding
 - [TheCelesteTracker-EverestMod](https://github.com/TheCelesteHub/TheCelesteHub): tracks stats in real time while playing and feeds TheCelesteTracker.
 
 More projects live in [TheCelesteHub](https://github.com/TheCelesteHub/).
-
 </details>
 
 </td></tr>
 </table>
 
-🦊 Contributions are always welcome.
 
+<h4 align="center">🦊 Contributions/PR's are always welcome. </h4>
 
+---
 
 <table>
   <tr>
-    <td width="30%">
+    <td width="30%" align="center" style="padding: 30px">
       <img width="100%" height="auto" alt="kristanlaimon_oc_thinking" src="./resources/kristanlaimon-fox-profilepicture.jpg" />
     </td>
     <td width="70%">
-      <h2>My profile picture is my OC (original character), designed and made by [@tomateranci0 on Instagram](https://www.instagram.com/tomateranci0?exln=NGRtNXpieHZ3Ymo0) · [Tumblr](https://www.tumblr.com/tomateranci0?source=share) (Commision Art)</h2>
+      <h6 style='display: inline; margin: 0 1.4rem 0 0'>This is my original character |OC|, designed and made by @tomateranci0 on <a href="https://www.instagram.com/tomateranci0?exln=NGRtNXpieHZ3Ymo0">Instagram</a> · <a href="https://www.tumblr.com/tomateranci0?source=share">Tumblr</a> <em>(Commision Art)</em></h6>
       <a href="https://madebyhuman.iamjarl.com"><img src="https://madebyhuman.iamjarl.com/badges/made-white.svg" alt="Made by Human" width="80"></a>
     </td>
   </tr>
