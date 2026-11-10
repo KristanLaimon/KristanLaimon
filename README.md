@@ -69,7 +69,7 @@
       <img
         width="240"
         alt="kl-sleepy"
-        src="https://github.com/user-attachments/assets/8ef5e20d-b9fd-4bf3-87b4-deafabd0c842"
+        src="https://github.com/user-attachments/assets/8b19e591-0941-4f85-b0ed-7e3e865bf899"
       />
     </td>
     <td width="65%" align="center" valign="middle">
