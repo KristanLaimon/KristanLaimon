@@ -178,7 +178,7 @@ More projects live in [TheCelesteHub](https://github.com/TheCelesteHub/).
       <img width="100%" height="auto" alt="kristanlaimon_oc_thinking" src="./resources/kristanlaimon-fox-profilepicture.jpg" />
     </td>
     <td width="70%">
-      <h6 style='display: inline; margin: 0 1.4rem 0 0'>This is my original character |OC|, designed and made by @tomateranci0 on <a href="https://www.instagram.com/tomateranci0?exln=NGRtNXpieHZ3Ymo0">Instagram</a> · <a href="https://www.tumblr.com/tomateranci0?source=share">Tumblr</a> <em>(Commision Art)</em></h6>
+      <h6 style='display: inline; margin: 0 1.4rem 0 0'>This is my original character |OC|, designed/made by @tomateranci0 on <a href="https://www.instagram.com/tomateranci0?exln=NGRtNXpieHZ3Ymo0">Instagram</a> · <a href="https://www.tumblr.com/tomateranci0?source=share">Tumblr</a> <em>(Commision Art)</em></h6>
       <a href="https://madebyhuman.iamjarl.com"><img src="https://madebyhuman.iamjarl.com/badges/made-white.svg" alt="Made by Human" width="80"></a>
     </td>
   </tr>
